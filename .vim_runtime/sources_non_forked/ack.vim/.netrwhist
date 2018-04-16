@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='ftp://t25thbcsforum@ftp.25thbcsforum.com/bcs_forum/resources/views/dashboard/notices/'
+let g:netrw_dirhist_2='ftp://t25thbcsforum@ftp.25thbcsforum.com/bcs_forum/resources/views/api/'
+let g:netrw_dirhist_3='scp://t25thbcsforum@ftp.25thbcsforum.com/'
+let g:netrw_dirhist_4='ftp://t25thbcsforum@ftp.25thbcsforum.com/'
+let g:netrw_dirhist_5='ftp://t25thbcsforum@ftp.25thbcsforum.com/bcs_forum/'
+let g:netrw_dirhist_6='ftp://t25thbcsforum@ftp.25thbcsforum.com/'
